@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">DAM_UC4Munoz</string>
+    <string name="title_activity_notas">NotasActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_favoritas" />
+    <string name="title_notas" />
+    <string name="title_user_profile" />
+    <string name="title_nota">nota</string>
+    <string name="title_favorita">favorita</string>
+    <string name="title_user_profiles">mi perfil</string>
 </resources>
